@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Pathway</string>
+    <string name="happy_birthday_text">Happy Birthday Hinata!</string>
+    <string name="signature_text">From Naruto</string>
 </resources>
